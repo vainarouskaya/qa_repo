@@ -1,0 +1,15 @@
+CONTINENT,Country,COUNTRYCODE,Capital
+"South America",Argentina,ARG,"Buenos Aires"
+"South America",Bolivia,BOL,"La Paz"
+"South America",Brazil,BRA,Brasília
+"South America",Chile,CHL,"Santiago de Chile"
+"South America",Colombia,COL,"Santafé de Bogotá"
+"South America",Ecuador,ECU,Quito
+"South America","Falkland Islands",FLK,Stanley
+"South America","French Guiana",GUF,Cayenne
+"South America",Guyana,GUY,Georgetown
+"South America",Paraguay,PRY,Asunción
+"South America",Peru,PER,Lima
+"South America",Suriname,SUR,Paramaribo
+"South America",Uruguay,URY,Montevideo
+"South America",Venezuela,VEN,Caracas

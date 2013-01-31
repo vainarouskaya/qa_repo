@@ -1,0 +1,4 @@
+ source :rubygems
+
+gem "watir-webdriver", "0.6.2"
+gem "rspec",  "2.12.0"

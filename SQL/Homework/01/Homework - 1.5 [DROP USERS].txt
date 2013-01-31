@@ -1,0 +1,17 @@
+-- STEP # 5.1 Display list of the users (Before)
+SELECT user, host, password FROM mysql.user;
+
+-- STEP # 5.2 Drop all users
+DROP USER 'deron_a'@'localhost';
+DROP USER 'bedros_b'@'localhost';
+DROP USER 'ramesh_c'@'localhost';
+DROP USER 'asha_d'@'localhost';
+DROP USER 'prashant_e'@'localhost';
+DROP USER 'dilip_f'@'localhost';
+DROP USER 'mukesh_g'@'localhost';
+DROP USER 'suresh_h'@'localhost';
+DROP USER 'sheela_i'@'localhost';
+DROP USER 'arsen_j'@'localhost';
+
+-- STEP # 5.3 Display list of the users (After)
+SELECT user, host, password FROM mysql.user;

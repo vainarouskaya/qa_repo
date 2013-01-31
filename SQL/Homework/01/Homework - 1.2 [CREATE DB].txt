@@ -1,0 +1,18 @@
+-- STEP # 2.1 Display all databases(Before)
+SHOW DATABASES;
+
+
+-- STEP # 2.3 Create databases
+CREATE DATABASE IF NOT EXISTS `qa_test_a`;
+CREATE DATABASE IF NOT EXISTS `qa_test_b`;
+CREATE DATABASE IF NOT EXISTS `qa_test_c`;
+CREATE DATABASE IF NOT EXISTS `qa_test_d`;
+CREATE DATABASE IF NOT EXISTS `qa_test_e`;
+CREATE DATABASE IF NOT EXISTS `qa_test_f`;
+CREATE DATABASE IF NOT EXISTS `qa_test_g`;
+CREATE DATABASE IF NOT EXISTS `qa_test_h`;
+CREATE DATABASE IF NOT EXISTS `qa_test_i`;
+CREATE DATABASE IF NOT EXISTS `qa_test_j`;
+
+-- STEP # 2.3 Display all databases(After)
+SHOW DATABASES;

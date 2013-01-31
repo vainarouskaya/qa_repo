@@ -1,0 +1,52 @@
+CONTINENT,Country,COUNTRYCODE,Capital
+Asia,Afghanistan,AFG,Kabul
+Asia,Armenia,ARM,Yerevan
+Asia,Azerbaijan,AZE,Baku
+Asia,Bahrain,BHR,al-Manama
+Asia,Bangladesh,BGD,Dhaka
+Asia,Bhutan,BTN,Thimphu
+Asia,Brunei,BRN,"Bandar Seri Begawan"
+Asia,Cambodia,KHM,"Phnom Penh"
+Asia,China,CHN,Peking
+Asia,Cyprus,CYP,Nicosia
+Asia,"East Timor",TMP,Dili
+Asia,Georgia,GEO,Tbilisi
+Asia,"Hong Kong",HKG,Victoria
+Asia,India,IND,"New Delhi"
+Asia,Indonesia,IDN,Jakarta
+Asia,Iran,IRN,Teheran
+Asia,Iraq,IRQ,Baghdad
+Asia,Israel,ISR,Jerusalem
+Asia,Japan,JPN,Tokyo
+Asia,Jordan,JOR,Amman
+Asia,Kazakstan,KAZ,Astana
+Asia,Kuwait,KWT,Kuwait
+Asia,Kyrgyzstan,KGZ,Bishkek
+Asia,Laos,LAO,Vientiane
+Asia,Lebanon,LBN,Beirut
+Asia,Macao,MAC,Macao
+Asia,Malaysia,MYS,"Kuala Lumpur"
+Asia,Maldives,MDV,Male
+Asia,Mongolia,MNG,"Ulan Bator"
+Asia,Myanmar,MMR,"Rangoon (Yangon)"
+Asia,Nepal,NPL,Kathmandu
+Asia,"North Korea",PRK,Pyongyang
+Asia,Oman,OMN,Masqat
+Asia,Pakistan,PAK,Islamabad
+Asia,Palestine,PSE,Gaza
+Asia,Philippines,PHL,Manila
+Asia,Qatar,QAT,Doha
+Asia,"Saudi Arabia",SAU,Riyadh
+Asia,Singapore,SGP,Singapore
+Asia,"South Korea",KOR,Seoul
+Asia,"Sri Lanka",LKA,Colombo
+Asia,Syria,SYR,Damascus
+Asia,Taiwan,TWN,Taipei
+Asia,Tajikistan,TJK,Dushanbe
+Asia,Thailand,THA,Bangkok
+Asia,Turkey,TUR,Ankara
+Asia,Turkmenistan,TKM,Ashgabat
+Asia,"United Arab Emirates",ARE,"Abu Dhabi"
+Asia,Uzbekistan,UZB,Toskent
+Asia,Vietnam,VNM,Hanoi
+Asia,Yemen,YEM,Sanaa

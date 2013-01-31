@@ -1,0 +1,10 @@
+"MANAGER WITH MORE THEN 1 EMPLOYEE",MANAGER,"NUMBER OF EMPLOYEES"
+"Lewis  Schneider",NULL,4
+"Flick  Reese","Lewis  Schneider",5
+"Kmanagers  Agg","Lewis  Schneider",8
+"Marjorie  Guess","Lewis  Schneider",4
+"Jericho  Rifler","Lewis  Schneider",8
+"Marian  Sloan","Marjorie  Guess",10
+"Clem  Burns","Marjorie  Guess",2
+"Laurissa  Buttermore","Jericho  Rifler",3
+"Eleanora  Finlay","Jericho  Rifler",4

@@ -1,0 +1,38 @@
+CONTINENT,Country,COUNTRYCODE,Capital
+"North America",Anguilla,AIA,"The Valley"
+"North America","Antigua and Barbuda",ATG,"Saint John´s"
+"North America",Aruba,ABW,Oranjestad
+"North America",Bahamas,BHS,Nassau
+"North America",Barbados,BRB,Bridgetown
+"North America",Belize,BLZ,Belmopan
+"North America",Bermuda,BMU,Hamilton
+"North America",Canada,CAN,Ottawa
+"North America","Cayman Islands",CYM,"George Town"
+"North America","Costa Rica",CRI,"San José"
+"North America",Cuba,CUB,"La Habana"
+"North America",Dominica,DMA,Roseau
+"North America","Dominican Republic",DOM,"Santo Domingo de Guzmán"
+"North America","El Salvador",SLV,"San Salvador"
+"North America",Greenland,GRL,Nuuk
+"North America",Grenada,GRD,"Saint George´s"
+"North America",Guadeloupe,GLP,Basse-Terre
+"North America",Guatemala,GTM,"Ciudad de Guatemala"
+"North America",Haiti,HTI,Port-au-Prince
+"North America",Honduras,HND,Tegucigalpa
+"North America",Jamaica,JAM,Kingston
+"North America",Martinique,MTQ,Fort-de-France
+"North America",Mexico,MEX,"Ciudad de México"
+"North America",Montserrat,MSR,Plymouth
+"North America","Netherlands Antilles",ANT,Willemstad
+"North America",Nicaragua,NIC,Managua
+"North America",Panama,PAN,"Ciudad de Panamá"
+"North America","Puerto Rico",PRI,"San Juan"
+"North America","Saint Kitts and Nevis",KNA,Basseterre
+"North America","Saint Lucia",LCA,Castries
+"North America","Saint Pierre and Miquelon",SPM,Saint-Pierre
+"North America","Saint Vincent and the Grenadines",VCT,Kingstown
+"North America","Trinidad and Tobago",TTO,Port-of-Spain
+"North America","Turks and Caicos Islands",TCA,"Cockburn Town"
+"North America","United States",USA,Washington
+"North America","Virgin Islands, British",VGB,"Road Town"
+"North America","Virgin Islands, U.S.",VIR,"Charlotte Amalie"

@@ -1,0 +1,58 @@
+CONTINENT,Country,COUNTRYCODE,Capital
+Africa,Algeria,DZA,Alger
+Africa,Angola,AGO,Luanda
+Africa,Benin,BEN,Porto-Novo
+Africa,Botswana,BWA,Gaborone
+Africa,"Burkina Faso",BFA,Ouagadougou
+Africa,Burundi,BDI,Bujumbura
+Africa,Cameroon,CMR,Yaoundé
+Africa,"Cape Verde",CPV,Praia
+Africa,"Central African Republic",CAF,Bangui
+Africa,Chad,TCD,N´Djaména
+Africa,Comoros,COM,Moroni
+Africa,Congo,COG,Brazzaville
+Africa,"Congo, The Democratic Republic of the",COD,Kinshasa
+Africa,"Côte d’Ivoire",CIV,Yamoussoukro
+Africa,Djibouti,DJI,Djibouti
+Africa,Egypt,EGY,Cairo
+Africa,"Equatorial Guinea",GNQ,Malabo
+Africa,Eritrea,ERI,Asmara
+Africa,Ethiopia,ETH,"Addis Abeba"
+Africa,Gabon,GAB,Libreville
+Africa,Gambia,GMB,Banjul
+Africa,Ghana,GHA,Accra
+Africa,Guinea,GIN,Conakry
+Africa,Guinea-Bissau,GNB,Bissau
+Africa,Kenya,KEN,Nairobi
+Africa,Lesotho,LSO,Maseru
+Africa,Liberia,LBR,Monrovia
+Africa,"Libyan Arab Jamahiriya",LBY,Tripoli
+Africa,Madagascar,MDG,Antananarivo
+Africa,Malawi,MWI,Lilongwe
+Africa,Mali,MLI,Bamako
+Africa,Mauritania,MRT,Nouakchott
+Africa,Mauritius,MUS,Port-Louis
+Africa,Mayotte,MYT,Mamoutzou
+Africa,Morocco,MAR,Rabat
+Africa,Mozambique,MOZ,Maputo
+Africa,Namibia,NAM,Windhoek
+Africa,Niger,NER,Niamey
+Africa,Nigeria,NGA,Abuja
+Africa,Réunion,REU,Saint-Denis
+Africa,Rwanda,RWA,Kigali
+Africa,"Saint Helena",SHN,Jamestown
+Africa,"Sao Tome and Principe",STP,"São Tomé"
+Africa,Senegal,SEN,Dakar
+Africa,Seychelles,SYC,Victoria
+Africa,"Sierra Leone",SLE,Freetown
+Africa,Somalia,SOM,Mogadishu
+Africa,"South Africa",ZAF,Pretoria
+Africa,Sudan,SDN,Khartum
+Africa,Swaziland,SWZ,Mbabane
+Africa,Tanzania,TZA,Dodoma
+Africa,Togo,TGO,Lomé
+Africa,Tunisia,TUN,Tunis
+Africa,Uganda,UGA,Kampala
+Africa,"Western Sahara",ESH,El-Aaiún
+Africa,Zambia,ZMB,Lusaka
+Africa,Zimbabwe,ZWE,Harare

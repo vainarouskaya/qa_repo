@@ -1,0 +1,43 @@
+USE db_test;
+SELECT COUNT(*) FROM City;
+
+USE db_test;
+SELECT COUNT(*) FROM City WHERE CountryCode = 'USA';
+
+USE db_test;
+SELECT * FROM City WHERE CountryCode = 'USA' ORDER BY Name ASC;
+
+USE db_test;
+SELECT * FROM City WHERE CountryCode = 'USA' ORDER BY Population DESC;
+
+USE world;
+SELECT * FROM City WHERE CountryCode = 'USA' AND Population = (SELECT Max(Population) FROM City WHERE CountryCode = 'USA');
+
+USE db_test;
+SELECT * FROM City WHERE Population = (SELECT Max(Population) FROM City);
+
+USE db_test;
+SELECT CountryCode, SUM(Population) FROM City WHERE CountryCode = 'USA';
+
+USE db_test;
+SELECT COUNT(DISTINCT CountryCode) FROM City;
+
+SELECT CountryCode, COUNT(Name) AS Cities, SUM(Population) AS 'Populations' FROM City
+GROUP BY CountryCode HAVING COUNT(Name) >= 1 ORDER BY Cities DESC;
+
+SELECT CountryCode, COUNT(Name) AS Cities, SUM(Population) AS Populations FROM City
+GROUP BY CountryCode HAVING COUNT(Name) >= 1 ORDER BY Populations DESC;
+
+USE db_test;
+SELECT CountryCode, COUNT(*), SUM(Population) AS Popululations FROM City WHERE CountryCode = 'USA'
+UNION
+SELECT CountryCode, COUNT(*), SUM(Population) AS Popululations FROM City WHERE CountryCode = 'RUS'
+UNION
+SELECT CountryCode, COUNT(*),SUM(Population) AS Popululations FROM City WHERE CountryCode = 'UKR'
+UNION
+SELECT CountryCode, COUNT(*),SUM(Population) AS Popululations FROM City WHERE CountryCode = 'CHN'
+UNION
+SELECT CountryCode, COUNT(*),SUM(Population) AS Popululations FROM City WHERE CountryCode = 'MEX';
+
+SELECT CountryCode, COUNT(Name) AS Cities, SUM(Population) AS Popululations FROM City 
+WHERE CountryCode = 'USA' OR CountryCode = 'RUS' OR CountryCode = 'UKR' OR CountryCode = 'CHN' OR CountryCode = 'MEX' GROUP BY CountryCode HAVING COUNT(Name) >= 1 ORDER BY Popululations DESC;

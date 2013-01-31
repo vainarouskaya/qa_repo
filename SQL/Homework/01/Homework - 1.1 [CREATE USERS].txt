@@ -1,0 +1,17 @@
+-- STEP # 1.1 Display list of the users (Before)
+SELECT user, host, password FROM mysql.user;
+
+-- STEP # 1.2 Create 10 users
+CREATE USER 'deron_a'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'bedros_b'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'ramesh_c'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'asha_d'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'prashant_e'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'dilip_f'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'mukesh_g'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'suresh_h'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'sheela_i'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'arsen_j'@'localhost' IDENTIFIED BY 'password';
+
+-- STEP # 1.3 Display list of the users (After)
+SELECT user, host, password FROM mysql.user;

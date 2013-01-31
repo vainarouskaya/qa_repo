@@ -1,0 +1,33 @@
+-- STEP # 3.1 Display privileges for all users (Before)
+SHOW GRANTS FOR 'deron_a'@'localhost';
+SHOW GRANTS FOR 'bedros_b'@'localhost';
+SHOW GRANTS FOR 'ramesh_c'@'localhost';
+SHOW GRANTS FOR 'asha_d'@'localhost';
+SHOW GRANTS FOR 'prashant_e'@'localhost';
+SHOW GRANTS FOR 'dilip_f'@'localhost';
+SHOW GRANTS FOR 'mukesh_g'@'localhost';
+SHOW GRANTS FOR 'suresh_h'@'localhost';
+SHOW GRANTS FOR 'sheela_i'@'localhost';
+
+-- STEP # 3.2 Grant privileges for all users
+GRANT ALL PRIVILEGES ON *.* TO 'deron_a'@'localhost' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON qa_test_b.* TO 'bedros_b'@'localhost';
+GRANT SELECT ON qa_test_c.* TO 'ramesh_c'@'localhost';
+GRANT SELECT,INSERT,UPDATE,DELETE,CREATE,DROP ON qa_test_d.* TO 'asha_d'@'localhost';
+GRANT SELECT,INSERT ON qa_test_e.* TO 'prashant_e'@'localhost';
+GRANT CREATE USER ON *.* TO 'dilip_f'@'localhost';
+GRANT DROP ON qa_test_g.* TO 'mukesh_g'@'localhost';
+GRANT UPDATE ON qa_test_h.* TO 'suresh_h'@'localhost';
+GRANT SHOW DATABASES ON *.* TO 'sheela_i'@'localhost';
+GRANT SELECT,INSERT,UPDATE,DELETE, DROP ON qa_test_j.* TO 'arsen_j'@'localhost';
+
+-- STEP # 3.3 Display privileges for all users (Before)
+SHOW GRANTS FOR 'deron_a'@'localhost';
+SHOW GRANTS FOR 'bedros_b'@'localhost';
+SHOW GRANTS FOR 'ramesh_c'@'localhost';
+SHOW GRANTS FOR 'asha_d'@'localhost';
+SHOW GRANTS FOR 'prashant_e'@'localhost';
+SHOW GRANTS FOR 'dilip_f'@'localhost';
+SHOW GRANTS FOR 'mukesh_g'@'localhost';
+SHOW GRANTS FOR 'suresh_h'@'localhost';
+SHOW GRANTS FOR 'sheela_i'@'localhost';

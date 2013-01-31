@@ -1,0 +1,3 @@
+ source :rubygems
+
+gem "selenium-webdriver", "2.27.2"

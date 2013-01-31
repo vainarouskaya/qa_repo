@@ -1,0 +1,18 @@
+-- STEP # 6.1 Display all databases (Before)
+SHOW DATABASES;
+
+
+-- STEP # 6.2 Drop all databases
+DROP DATABASE IF EXISTS `qa_test_a`;
+DROP DATABASE IF EXISTS `qa_test_b`;
+DROP DATABASE IF EXISTS `qa_test_c`;
+DROP DATABASE IF EXISTS `qa_test_d`;
+DROP DATABASE IF EXISTS `qa_test_e`;
+DROP DATABASE IF EXISTS `qa_test_f`;
+DROP DATABASE IF EXISTS `qa_test_g`;
+DROP DATABASE IF EXISTS `qa_test_h`;
+DROP DATABASE IF EXISTS `qa_test_i`;
+DROP DATABASE IF EXISTS `qa_test_j`;
+
+-- STEP # 6.3 Display all databases (After)
+SHOW DATABASES;

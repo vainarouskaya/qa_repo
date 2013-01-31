@@ -1,0 +1,47 @@
+CONTINENT,Country,COUNTRYCODE,Capital
+Europe,Albania,ALB,Tirana
+Europe,Andorra,AND,"Andorra la Vella"
+Europe,Austria,AUT,Wien
+Europe,Belarus,BLR,Minsk
+Europe,Belgium,BEL,"Bruxelles [Brussel]"
+Europe,"Bosnia and Herzegovina",BIH,Sarajevo
+Europe,Bulgaria,BGR,Sofija
+Europe,Croatia,HRV,Zagreb
+Europe,"Czech Republic",CZE,Praha
+Europe,Denmark,DNK,København
+Europe,Estonia,EST,Tallinn
+Europe,"Faroe Islands",FRO,Tórshavn
+Europe,Finland,FIN,"Helsinki [Helsingfors]"
+Europe,France,FRA,Paris
+Europe,Germany,DEU,Berlin
+Europe,Gibraltar,GIB,Gibraltar
+Europe,Greece,GRC,Athenai
+Europe,"Holy See (Vatican City State)",VAT,"Città del Vaticano"
+Europe,Hungary,HUN,Budapest
+Europe,Iceland,ISL,Reykjavík
+Europe,Ireland,IRL,Dublin
+Europe,Italy,ITA,Roma
+Europe,Latvia,LVA,Riga
+Europe,Liechtenstein,LIE,Vaduz
+Europe,Lithuania,LTU,Vilnius
+Europe,Luxembourg,LUX,"Luxembourg [Luxemburg/Lëtzebuerg]"
+Europe,Macedonia,MKD,Skopje
+Europe,Malta,MLT,Valletta
+Europe,Moldova,MDA,Chisinau
+Europe,Monaco,MCO,Monaco-Ville
+Europe,Netherlands,NLD,Amsterdam
+Europe,Norway,NOR,Oslo
+Europe,Poland,POL,Warszawa
+Europe,Portugal,PRT,Lisboa
+Europe,Romania,ROM,Bucuresti
+Europe,"Russian Federation",RUS,Moscow
+Europe,"San Marino",SMR,"San Marino"
+Europe,Slovakia,SVK,Bratislava
+Europe,Slovenia,SVN,Ljubljana
+Europe,Spain,ESP,Madrid
+Europe,"Svalbard and Jan Mayen",SJM,Longyearbyen
+Europe,Sweden,SWE,Stockholm
+Europe,Switzerland,CHE,Bern
+Europe,Ukraine,UKR,Kyiv
+Europe,"United Kingdom",GBR,London
+Europe,Yugoslavia,YUG,Beograd

@@ -1,0 +1,11 @@
+id,firstname,lastname,title,age,yearofservice,salary,perks,email
+1,John,Chen,"Senior Programmer",31,3,120000,25000,j@hotmail.com
+2,Jan,Pillai,"Senior Programmer",32,4,110000,20000,g@yahoo.com
+3,Ane,Pandit,"Web Designer",24,3,90000,15000,a@gmail.com
+4,Mary,Anchor,"Web Designer",27,2,85000,15000,m@mail.com
+5,Fred,King,Programmer,32,3,75000,15000,f@net.com
+6,John,Mac,Programmer,32,4,80000,16000,j@hotmail.com
+7,Arthur,Sam,Programmer,28,2,75000,14000,e@yahoo.com
+8,Alok,Nanda,Programmer,32,3,70000,10000,a@yahoo.com
+9,Susan,Ra,"Multimedia Programmer",32,4,90000,15000,h@gmail.com
+10,Paul,Simon,"Multimedia Programmer",23,1,85000,12000,ps@gmail.com

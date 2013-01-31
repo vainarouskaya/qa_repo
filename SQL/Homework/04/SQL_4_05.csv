@@ -1,0 +1,7 @@
+id,firstname,lastname,title,age,yearofservice,salary,perks,email
+1,John,Chen,"Senior Programmer",31,3,120000,25000,j@hotmail.com
+2,Jan,Pillai,"Senior Programmer",32,4,110000,20000,g@yahoo.com
+12,Kim,Hunter,"Senior Web Designer",32,4,110000,20000,kim@coolmail.com
+13,Roger,Lewis,"System Administrator",32,3,100000,13000,roger@mail.com
+15,Mike,Harper,"Senior Marketing Executive",36,1,120000,28000,m@gmail.com
+20,Peter,Champion,"Finance Manager",32,2,120000,25000,peter@yahoo.com
